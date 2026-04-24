@@ -12,7 +12,7 @@
 ### `Mohammed Abdu Rahoof`
 #### Full-Stack Web & Mobile Developer · Kerala, India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&width=500&lines=React+%7C+Laravel+%7C+Flutter+%7C+Node.js;Building+Sibaq+%F0%9F%9A%80;Open+to+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&width=500&lines=React+%7C+Laravel+%7C+Flutter+%7C+Node.js;Building+DHIU+PG+Portal+%F0%9F%8E%93;Open+to+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=mohammedabdurahoof&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 
@@ -25,7 +25,7 @@
 ```yaml
 name: Mohammed Abdu Rahoof
 location: Kerala, India
-current_project: Sibaq 🚀
+current_project: "🎓 DHIU PG Portal ← [ ACTIVE BUILD ]"
 expertise: [React, Laravel, Flutter, Node.js]
 interests: [Web Dev, Mobile Apps, Open Source]
 reach_me_at: mohammedabdurahoof527@gmail.com
@@ -37,7 +37,7 @@ fun_fact: "The best debugger is a good night's sleep"
 
 ## 🚀 What I'm Up To
 
-- 🔭 **Building** → [Sibaq](https://github.com/mohammedabdurahoof) — my current focus project
+- 🔭 **Building** → 🎓 **[DHIU PG Portal](https://github.com/mohammedabdurahoof)** — a postgraduate portal for Darul Huda Islamic University
 - 🌱 **Learning** → Advanced system design & cloud architecture
 - 💬 **Ask me about** → React, Laravel, Flutter, REST APIs
 - 📝 **Writing** → Articles on [Dev.to](https://dev.to/mohammed_abdu_rahoof) & [Medium](https://medium.com/@mohammedabdurahoof)
@@ -85,6 +85,31 @@ fun_fact: "The best debugger is a good night's sleep"
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 🌟 Featured Project
+
+<div align="center">
+
+### 🎓 DHIU PG Portal
+
+![DHIU PG Portal](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)
+![Type](https://img.shields.io/badge/Type-Web%20Application-blue?style=for-the-badge)
+![University](https://img.shields.io/badge/Client-Darul%20Huda%20Islamic%20University-gold?style=for-the-badge)
+
+> **A comprehensive postgraduate management portal for Darul Huda Islamic University (DHIU)**  
+> Streamlining admissions, academic records, and student management for PG programmes.
+
+| Feature | Stack |
+|---|---|
+| 🖥️ Frontend | React · TypeScript · Tailwind CSS |
+| ⚙️ Backend | Laravel · REST API |
+| 🗄️ Database | MySQL |
+| 🔐 Auth | Laravel Sanctum |
+| 🚀 Deployment | Nginx · Linux |
+
+</div>
 
 ---
 
